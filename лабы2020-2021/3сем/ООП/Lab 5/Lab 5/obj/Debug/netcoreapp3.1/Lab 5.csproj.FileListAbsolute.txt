@@ -1,0 +1,11 @@
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.deps.json
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.runtimeconfig.json
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.runtimeconfig.dev.json
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.dll
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\bin\Debug\netcoreapp3.1\Lab 5.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.csprojAssemblyReference.cache
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.AssemblyInfoInputs.cache
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.AssemblyInfo.cs
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.dll
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 5\Lab 5\obj\Debug\netcoreapp3.1\Lab 5.pdb

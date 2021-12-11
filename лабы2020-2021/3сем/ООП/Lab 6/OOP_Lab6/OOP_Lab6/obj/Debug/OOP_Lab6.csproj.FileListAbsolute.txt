@@ -1,0 +1,20 @@
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.exe.config
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.exe
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.pdb
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.csprojAssemblyReference.cache
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.csproj.CoreCompileInputs.cache
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.exe
+G:\OneDrive\учёба\3-й_семестр\ООП\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.pdb
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.exe.config
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.exe
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.pdb
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.csprojAssemblyReference.cache
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.csproj.CoreCompileInputs.cache
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.exe
+D:\от предков\ооп2\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\готовые ооп\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.exe.config
+C:\Users\alesy\Desktop\лабы 2020-2021\готовые ооп\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\готовые ооп\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\bin\Debug\OOP_Lab6.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\готовые ооп\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.csprojAssemblyReference.cache
+C:\Users\alesy\Desktop\лабы 2020-2021\готовые ооп\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\готовые ооп\лр_6(структуры, перечисления, контейнеры)\OOP_Lab6\OOP_Lab6\obj\Debug\OOP_Lab6.pdb

@@ -1,0 +1,40 @@
+D:\OOP\3lab\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+D:\OOP\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+D:\OOP\3lab\3lab\bin\Debug\3lab.exe.config
+D:\OOP\3lab\3lab\bin\Debug\3lab.exe
+D:\OOP\3lab\3lab\bin\Debug\3lab.pdb
+D:\OOP\3lab\3lab\obj\Debug\3lab.exe
+D:\OOP\3lab\3lab\obj\Debug\3lab.pdb
+C:\Users\Legioner\Desktop\3lab\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+C:\Users\Legioner\Desktop\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+C:\Users\Legioner\Desktop\3lab\3lab\obj\Debug\3lab.exe
+C:\Users\Legioner\Desktop\3lab\3lab\obj\Debug\3lab.pdb
+C:\Users\Legioner\Desktop\3lab\3lab\bin\Debug\3lab.exe.config
+C:\Users\Legioner\Desktop\3lab\3lab\bin\Debug\3lab.exe
+C:\Users\Legioner\Desktop\3lab\3lab\bin\Debug\3lab.pdb
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\bin\Debug\3lab.exe.config
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\bin\Debug\3lab.exe
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\bin\Debug\3lab.pdb
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\obj\Debug\3lab.exe
+C:\Users\Lenovo\Desktop\ООП\3lab\3lab\obj\Debug\3lab.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\Север\ООП\3lab\3lab\bin\Debug\3lab.exe.config
+C:\Users\alesy\Desktop\лабы 2020-2021\Север\ООП\3lab\3lab\bin\Debug\3lab.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\Север\ООП\3lab\3lab\bin\Debug\3lab.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\Север\ООП\3lab\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+C:\Users\alesy\Desktop\лабы 2020-2021\Север\ООП\3lab\3lab\obj\Debug\3lab.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\Север\ООП\3lab\3lab\obj\Debug\3lab.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 3\3lab\bin\Debug\3lab.exe.config
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 3\3lab\bin\Debug\3lab.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 3\3lab\bin\Debug\3lab.pdb
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 3\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 3\3lab\obj\Debug\3lab.exe
+C:\Users\alesy\Desktop\лабы 2020-2021\ООП\Lab 3\3lab\obj\Debug\3lab.pdb
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\bin\Debug\3lab.exe.config
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\bin\Debug\3lab.exe
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\bin\Debug\3lab.pdb
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\obj\Debug\3lab.csprojAssemblyReference.cache
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\obj\Debug\3lab.exe
+D:\University\лабы 2020-2021\3 сем\ООП\Lab 3\3lab\obj\Debug\3lab.pdb
